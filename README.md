@@ -320,6 +320,26 @@ Use their feedback to modify the search rather than restarting the conversation 
 
 ---
 
+## Project Structure
+
+```
+.
+├── dataset_and_embeddings.ipynb
+├── hf_models
+│   └── all_hf_models_here.txt
+├── inventory
+│   └── meta.json
+├── LICENSE
+├── main.py
+├── output.json.txt
+├── pyproject.toml
+├── README.md
+├── server.py
+├── utils.py
+└── uv.lock
+
+```
+
 ## Error Handling
 
 ### No Results
