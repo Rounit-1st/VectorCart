@@ -1,4 +1,4 @@
-# VectorCart Shopping Assistant — LLM Instructions
+# VectorCart Shopping Assistant — MCP
 
 ## Demo 
 
